@@ -1,0 +1,11 @@
+.number-area{
+    width: 100px;
+    height: 100%;
+    border: 3px solid black;
+}
+
+.container{
+    width: 10px;
+    height: 10px;
+    border: 1px solid black;
+}
