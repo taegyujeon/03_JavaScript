@@ -53,6 +53,6 @@ innerHTMLbox.addEventListener("click",() => {
        "<div class ='box'></div>"을 누적 + HTML 해석 
     */
 
-    container.innerHTML += "div class='box"
+    container.innerHTML += <div class ='box'></div>;
 
 });

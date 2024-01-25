@@ -72,7 +72,7 @@ addBtn.addEventListener("click", () => {
 
 
     // resList에 식당 개체 추가
-    resList.push(new Restaurant(resName.value, resAddress.v alue, resMenu.value));
+    resList.push(new Restaurant(resName.value, resAddress.value, resMenu.value));
 
     // 이전 input에 작성된 내용 삭제(빈 문자열 대입)
     resName.value    = "";

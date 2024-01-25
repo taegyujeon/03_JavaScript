@@ -43,12 +43,12 @@ main{
     font-weight: bold;
 }
   
-  #changeButton:hover{
+#changeButton:hover{
     color : white;
     background-color: pink;
 }
   
-  #changeButton:active{
+#changeButton:active{
     border: 2px solid black;
 }
 
